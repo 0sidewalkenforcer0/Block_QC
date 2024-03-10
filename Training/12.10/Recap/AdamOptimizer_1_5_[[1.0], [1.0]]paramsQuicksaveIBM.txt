@@ -1,0 +1,10 @@
+parameter quicksave stepnumber 0: [[0.9900000001855073], [1.0099999999561644]]
+
+parameter quicksave stepnumber 1: [[0.9824688044228008], [1.0174531230608845]]
+
+parameter quicksave stepnumber 2: [[0.9759523987068579], [1.0238533186640888]]
+
+parameter quicksave stepnumber 3: [[0.9699895543809647], [1.0296374650794673]]
+
+parameter quicksave stepnumber 4: [[0.9644092267056484], [1.0350220576084774]]
+
